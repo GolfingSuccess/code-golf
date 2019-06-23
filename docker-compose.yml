@@ -24,8 +24,7 @@ services:
       PGSSLMODE: disable
       PGUSER:    code_golf
     ports:
-      - 80:80
-      - 443:443
+      - 1337:1337
     privileged: true
     volumes:
       - .:/go

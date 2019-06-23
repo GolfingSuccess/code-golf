@@ -1,12 +1,12 @@
 [Unit]
-Description=code-golf
+Description=code-golf-ng
 
 [Service]
 EnvironmentFile=/home/jraspass/code-golf.env
-ExecStart=/home/jraspass/code-golf/code-golf
+ExecStart=/home/jraspass/code-golf-ng/code-golf
 Restart=always
 Type=simple
-WorkingDirectory=/home/jraspass/code-golf
+WorkingDirectory=/home/jraspass/code-golf-ng
 
 [Install]
 WantedBy=multi-user.target
