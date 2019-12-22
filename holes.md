@@ -27,6 +27,7 @@ Gaming
 Mathematics
 ====
 
+* Polynomial Derivative **TODO**
 * λ  (Conway’s constant)
 * π  (Pi)
 * τ  (Tau)
